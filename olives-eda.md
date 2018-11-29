@@ -1,6 +1,14 @@
+---
+title: EDA
+notebook: olives-eda.ipynb
+---
 
-# EDA
+## Contents
+{:.no_toc}
+*  
+{: toc}
 
+nav_include: 2
 
 
 ```python
