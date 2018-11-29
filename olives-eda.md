@@ -1,6 +1,7 @@
 ---
 title: EDA
 notebook: olives-eda.ipynb
+nav_include: 1
 ---
 
 ## Contents
@@ -8,7 +9,7 @@ notebook: olives-eda.ipynb
 *  
 {: toc}
 
-nav_include: 2
+
 
 
 ```python
