@@ -9,8 +9,6 @@ nav_include: 2
 *  
 {: toc}
 
-nav_include: 1
-
 
 
 ```python
